@@ -1,0 +1,15 @@
+.webtitle {
+    text-align: center;
+}
+.nav li {
+    display: inline-block;
+    margin: auto;
+}
+
+.nav {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
