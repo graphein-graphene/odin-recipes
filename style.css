@@ -23,6 +23,7 @@ h1,h2,h3,h4,h5,h6 {
 .nav {
     display: block;
     text-align: center;
+    padding: 0px;
 }
 
 footer {
@@ -76,7 +77,7 @@ body {
 
 .nothome.homemenu {
     width: max-content;
-    margin: 12px 10px 12px;
+    margin: 12px 10px 30px;
     padding: 5px 10px 5px 0px;
 }
 
