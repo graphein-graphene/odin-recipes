@@ -17,9 +17,22 @@ footer {
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Oswald', 'Arial', 'sans-serif';
     font-weight: 400;
+    margin: 10px;
 }
 
 p, ul, ol, li, a {
     font-family: 'Oswald', 'Arial', 'sans-serif';
     font-weight: 300;
+}
+
+p, a {
+    padding-left: 10px;
+}
+img {
+    border: solid 2px black;
+    border-radius: 25px;
+    margin: 10px;
+}
+ul {
+    margin: 10px;
 }
