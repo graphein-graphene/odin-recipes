@@ -52,7 +52,7 @@ ul {
 }
 
 body {
-    background: linear-gradient(150deg, #79a0f5, #32d1a9);
+    background: linear-gradient(150deg, #ff5e00, #c4a600);
     min-height: 100vh;
     min-width: 100vw;
 }
@@ -64,7 +64,7 @@ body {
     margin: 12px 75px 50px;
 }
 .nav a, a {
-    color:#02b671;
+    color:#a74300;
     text-decoration: none;
 }
 
