@@ -59,7 +59,7 @@ body {
     padding: 25px;
     margin: 12px 75px 50px;
 }
-.nav a {
+.nav a, a {
     color:#09af20
 }
 
@@ -80,6 +80,8 @@ body {
 .nothome .nav li {
     text-align: left;
     display: block;
+    margin: 7px 0px;
+    list-style: circle;
 }
 .nothome .nav {
     padding: 0px;
