@@ -40,7 +40,7 @@ p, a {
     padding-left: 10px;
 }
 img {
-    border: solid 2px black;
+    border: solid 5px rgb(255, 255, 255);
     border-radius: 25px;
     margin: 10px;
 }
@@ -62,4 +62,12 @@ body {
 }
 .nav a {
     color:#09af20
+}
+
+.detail-container {
+    width: 500px;
+    border-radius: 25px;
+    background-color: white;
+    margin: 10px 10px 50px;
+    padding: 10px 20px 10px 10px;
 }
