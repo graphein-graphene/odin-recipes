@@ -6,7 +6,7 @@ h1,h2,h3,h4,h5,h6 {
 
 .webtitle {
     text-align: center;
-    padding: 20px;
+    padding: 100px 20px 0px;
     font-weight: 600;
     color: white;
 }
@@ -53,7 +53,7 @@ body {
     background-color: white;
     border-radius: 10px;
     padding: 25px;
-    margin: 25px 50px;
+    margin: 12px 75px 50px;
 }
 .nav a {
     color:#09af20
