@@ -39,10 +39,9 @@ p, ul, ol, li, a {
 p, a {
     padding-left: 10px;
 }
-img {
+a img{
     border: solid 5px rgb(255, 255, 255);
     border-radius: 25px;
-    margin: 10px;
 }
 ul {
     margin: 10px;
