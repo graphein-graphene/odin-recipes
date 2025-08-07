@@ -86,3 +86,8 @@ body {
 .nothome .nav {
     padding: 0px;
 }
+
+footer.nothome {
+    text-align: left;
+    margin: 10px;
+}
