@@ -1,5 +1,7 @@
 .webtitle {
     text-align: center;
+    padding: 20px;
+    font-weight: 600;
 }
 .nav li {
     display: inline-block;
@@ -41,4 +43,14 @@ body {
     background: linear-gradient(to bottom, #79a0f5, #3fe75b);
     min-height: 100vh;
     min-width: 100vw;
+}
+
+.homemenu {
+    background-color: white;
+    border-radius: 10px;
+    padding: 25px;
+    margin: 25px 0;
+}
+.nav a {
+    color:#09af20
 }
