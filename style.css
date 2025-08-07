@@ -70,3 +70,17 @@ body {
     margin: 10px 10px 50px;
     padding: 10px 20px 10px 10px;
 }
+
+.nothome.homemenu {
+    width: max-content;
+    margin: 12px 10px 12px;
+    padding: 5px;
+}
+
+.nothome .nav li {
+    text-align: left;
+    display: block;
+}
+.nothome .nav {
+    padding: 0px;
+}
