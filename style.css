@@ -46,8 +46,7 @@ p, a {
 a img{
     border: solid 5px rgb(255, 255, 255);
     border-radius: 10px;
-    margin-right: 20px;
-    flex: initial;
+    
 }
 ul {
     margin: 0px;
@@ -74,7 +73,7 @@ body {
     
     border-radius: 10px;
     background-color: white;
-    margin: 10px 10px 50px;
+    /*margin: 10px 10px 50px;*/
     padding: 10px 20px 10px 10px;
 }
 
@@ -105,4 +104,8 @@ footer.nothome {
 
 .flex-container {
     display: flex;
+    padding: 0px 10px 10px 10px;
+}
+.recipe-img {
+    padding-top: 0px;
 }
